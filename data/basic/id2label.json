@@ -1,0 +1,51 @@
+{
+    "emotions":{
+        "null": -1,
+        "anger": 0,
+        "anticipation": 1,
+        "disgust": 2,
+        "fear": 3,
+        "joy": 4,
+        "love": 5,
+        "optimism": 6,
+        "pessimism": 7,
+        "sadness": 8,
+        "surprise": 9,
+        "trust": 10
+    },
+    "values":{
+            "null": -1,
+            "Self-direction: thought": 0,
+            "Stimulation": 1,
+            "Universalism: concern": 2,
+            "Self-direction: action": 3,
+            "Benevolence: dependability": 4,
+            "Benevolence: caring": 5,
+            "Conformity: interpersonal": 6, 
+            "Security: societal": 7,
+            "Universalism: tolerance": 8, 
+            "Power: dominance": 9, 
+            "Power: resources": 10, 
+            "Universalism: nature": 11, 
+            "Humility": 12, 
+            "Face": 13, 
+            "Conformity: rules": 14, 
+            "Achievement": 15, 
+            "Security: personal": 16, 
+            "Hedonism": 17, 
+            "Tradition": 18
+        },
+    "sentiments":
+        {"null": -1, "negative": 0, "neutral": 1, "positive": 2},
+
+    "topics":
+    {
+        "null": -1,
+        "arts_&_culture": 0, 
+        "business_&_entrepreneurs": 1, 
+        "pop_culture": 2, 
+        "daily_life": 3, 
+        "sports_&_gaming": 4, 
+        "science_&_technology": 5
+    }
+}

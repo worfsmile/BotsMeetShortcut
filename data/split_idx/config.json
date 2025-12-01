@@ -1,0 +1,158 @@
+{
+    "cresci-2015-data": {
+        "description": {
+            "sentiments": [[2], [0]],
+            "topics": [[3], [2,4]],
+            "values": [[13,17], [2,4,5]],
+            "emotions": [[4], [1,6]]
+        },
+        "twi1": {
+            "sentiments": [[2],[0]],
+            "topics": [[3],[2,4]],
+            "values": [[13,17,15,16],[0,6,7]],
+            "emotions": [[4],[1,8]]
+        },
+        "twi3": {
+            "sentiments": [[2],[0]],
+            "topics": [[3],[2,4]],
+            "values": [[13,15,16,17],[0,6,7]],
+            "emotions": [[4],[0,2,8]]
+        },
+        "twi5": {
+            "sentiments": [[2],[0]],
+            "topics": [[2,4],[3]],
+            "values": [[13,15,16,17],[0,6,7]],
+            "emotions": [[4],[0,2,8]]
+        }
+    },
+    "cresci-2017-data": {
+        "description": {
+            "sentiments": [[2], [0]],
+            "topics": [[3], [2,4]],
+            "values": [[13,17], [2,4,5]],
+            "emotions": [[4], [1,6]]
+        },
+        "twi1": {
+            "sentiments": [[2],[0]],
+            "topics": [[3],[2,4]],
+            "values": [[13,17,15,16],[0,6,7]],
+            "emotions": [[4],[1,8]]
+        },
+        "twi3": {
+            "sentiments": [[2],[0]],
+            "topics": [[3],[2,4]],
+            "values": [[13,15,16,17],[0,6,7]],
+            "emotions": [[4],[0,2,8]]
+        },
+        "twi5": {
+            "sentiments": [[2],[0]],
+            "topics": [[2,4],[3]],
+            "values": [[13,15,16,17],[0,6,7]],
+            "emotions": [[4],[0,2,8]]
+        }
+    },
+    "cresci-stock-2018": {
+        "description": {
+            "sentiments": [[2], [0]],
+            "topics": [[3], [2,4]],
+            "values": [[13,17], [2,4,5]],
+            "emotions": [[4], [1,6]]
+        },
+        "twi1": {
+            "sentiments": [],
+            "topics": [],
+            "values": [],
+            "emotions": []
+        },
+        "twi3": {
+            "sentiments": [],
+            "topics": [],
+            "values": [],
+            "emotions": []
+        },
+        "twi5": {
+            "sentiments": [],
+            "topics": [],
+            "values": [],
+            "emotions": []
+        }
+    },
+    "midterm-2018": {
+        "description": {
+            "sentiments": [[2],[0]],
+            "topics": [[3],[0,1,5]],
+            "values": [[13,17],[2,4,5,8,11,12]],
+            "emotions": [[4,6],[0,2,8]]
+        },
+        "twi1": {
+            "sentiments": [],
+            "topics": [],
+            "values": [],
+            "emotions": []
+        },
+        "twi3": {
+            "sentiments": [],
+            "topics": [],
+            "values": [],
+            "emotions": []
+        },
+        "twi5": {
+            "sentiments": [],
+            "topics": [],
+            "values": [],
+            "emotions": []
+        }
+    },
+    "twibot-20": {
+        "description": {
+            "sentiments": [[2], [0]],
+            "topics": [[3], [2,4]],
+            "values": [[13,17], [2,4,5]],
+            "emotions": [[4], [1,6]]
+        },
+        "twi1": {
+            "sentiments": [[2],[0]],
+            "topics": [[3],[2,4]],
+            "values": [[13,17,15,16],[0,6,7]],
+            "emotions": [[4],[1,8]]
+        },
+        "twi3": {
+            "sentiments": [[2],[0]],
+            "topics": [[3],[2,4]],
+            "values": [[13,15,16,17],[0,6,7]],
+            "emotions": [[4],[0,2,8]]
+        },
+        "twi5": {
+            "sentiments": [[2],[0]],
+            "topics": [[2,4],[3]],
+            "values": [[13,15,16,17],[0,6,7]],
+            "emotions": [[4],[0,2,8]]
+        }
+    },
+    "twibot-22": {
+        "description": {
+            "sentiments": [[2], [0]],
+            "topics": [[0], [5]],
+            "values": [[13], [2,8]],
+            "emotions": [[4],[0,2,8]]
+        },
+        "twi1": {
+            "sentiments": [[2], [0]],
+            "topics": [[0], [5]],
+            "values": [[13], [2,8]],
+            "emotions": [[4],[0,2,8]]
+        },
+        "twi3": {
+            "sentiments": [[2], [0]],
+            "topics": [[0], [5]],
+            "values": [[13], [2,8]],
+            "emotions": [[4],[0,2,8]]
+        },
+        "twi5": {
+            "sentiments": [[2], [0]],
+            "topics": [[0], [5]],
+            "values": [[13], [2,8]],
+            "emotions": [[4],[0,2,8]]
+        }
+    }
+}

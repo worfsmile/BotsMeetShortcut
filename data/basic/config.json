@@ -1,0 +1,15 @@
+[
+    "./data",
+    [
+       "cresci-2015-data", "cresci-2017-data", "cresci-stock-2018", "midterm-2018", "twibot-20"
+    ],
+    [
+        "tweets"
+    ],
+    [
+        "sentiments",
+        "topics",
+        "values",
+        "emotions"
+    ]
+]
